@@ -34,11 +34,11 @@ I value practical architecture, explicit failure handling, and software that is 
 
 ## Career highlights
 
-| Period | Experience |
-| --- | --- |
-| **2022 → now** | **Redbelt Security** · Senior Software Engineer working on enterprise cybersecurity software, GRC workflows, security controls, risk management, operational visibility, and integrations with platforms such as ServiceNow, Jira, and TOPdesk. |
-| **2021 → 2022** | **THR Software** · Built business management and CRM systems, including a real estate management product and integrations that supported customer acquisition workflows. |
-| **2019 → 2021** | **Holding RPX** · Worked on fintech and white-label banking systems, including a ticket workflow that replaced email-based customer requests with a more structured process. |
+| Period | Experience | Main technologies |
+| --- | --- | --- |
+| **2022 → now** | 🛡️ **Redbelt Security** · Senior Software Engineer working on enterprise cybersecurity software, GRC workflows, security controls, risk management, operational visibility, and enterprise integrations. | `PHP` · `Laravel` · `Symfony` · `React` · `TypeScript` · `PostgreSQL` · `Redis` · `Docker` |
+| **2021 → 2022** | 🏢 **THR Software** · Built business management and CRM systems, including a real estate management product and integrations that supported customer acquisition workflows. | `PHP` · `Laravel` · `React` · `MySQL` · `Docker` · `REST APIs` |
+| **2019 → 2021** | 💳 **Holding RPX** · Worked on fintech and white-label banking systems, including a ticket workflow that replaced email-based customer requests with a more structured process. | `PHP` · `Laravel` · `MySQL` · `REST APIs` · `Background jobs` |
 
 ## Featured engineering work
 
@@ -113,3 +113,4 @@ The product is no longer in production. Its [backend](https://github.com/gabBomf
 - [GitHub](https://github.com/gabBomfim)
 
 <sub>Building software that stays clear when the system gets complicated.</sub>
+
