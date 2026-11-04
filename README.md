@@ -18,8 +18,6 @@
   <a href="https://www.gabrielbomfim.dev.br/">Portfolio</a>
   ·
   <a href="mailto:gbr.bomfim@gmail.com">Email</a>
-  ·
-  <a href="https://github.com/gabBomfim">GitHub</a>
 </p>
 
 ---
@@ -110,8 +108,8 @@ The product is no longer in production. Its [backend](https://github.com/gabBomf
 - [LinkedIn](https://www.linkedin.com/in/gbr-bomfim/)
 - [Portfolio](https://www.gabrielbomfim.dev.br/)
 - [Email](mailto:gbr.bomfim@gmail.com)
-- [GitHub](https://github.com/gabBomfim)
 
 <sub>Building software that stays clear when the system gets complicated.</sub>
+
 
 
