@@ -1,115 +1,147 @@
-<div align="center">
-  <img src="./assets/profile-banner.svg" alt="Abstract systems architecture graphic" width="100%" />
+
+# Hi there, I'm { Gᴀʙʀɪᴇʟ Bᴏᴍꜰɪᴍ } ! 👋
+
+### Senior Software Engineer | PHP · Laravel · React | Cybersecurity
+
+I build software that solves real problems, from business applications to enterprise cybersecurity platforms.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20website-222222?style=for-the-badge)](https://www.gabrielbomfim.dev.br/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gbr-bomfim/)
+[![Email](https://img.shields.io/badge/Email-Say%20hello-444444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gbr.bomfim@gmail.com)
+
 </div>
-
-<h1 align="center">Gabriel Bomfim</h1>
-
-<p align="center">
-  <strong>Senior Software Engineer | PHP · Laravel · React | Cybersecurity</strong>
-</p>
-
-<p align="center">
-  Backend systems, full-stack products, and security-focused engineering.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/gbr-bomfim/">LinkedIn</a>
-  ·
-  <a href="https://www.gabrielbomfim.dev.br/">Portfolio</a>
-  ·
-  <a href="mailto:gbr.bomfim@gmail.com">Email</a>
-</p>
 
 ---
 
-## About me
+## 👨‍💻 A little about me
 
-I am a Senior Software Engineer with 7+ years of experience building enterprise software, integrations, and cybersecurity platforms.
+I'm a Brazilian software engineer with 7+ years of experience building web applications, integrations, and enterprise systems.
 
-My work sits mostly on the backend and at the boundaries between systems: APIs, background jobs, multi-tenant workflows, data-heavy applications, and integrations that need to keep working when the happy path ends. I also build the frontend when the product needs a clearer operational view.
+I started my career in 2019, working on fintech and business software. Today, I'm a Senior Software Engineer at **Redbelt Security**, building solutions for cybersecurity operations.
 
-I value practical architecture, explicit failure handling, and software that is understandable to the next engineer who has to change it.
+I enjoy working on complex problems, especially when they involve backend architecture, integrations, or systems that need to handle a lot of moving parts.
 
-## Career highlights
+One thing I've learned over the years is that I don't need to have every answer right away. I just need to know how to investigate, learn, and find a good solution.
 
-| Period | Experience | Main technologies |
-| --- | --- | --- |
-| **2022 → now** | 🛡️ **Redbelt Security** · Senior Software Engineer working on enterprise cybersecurity software, GRC workflows, security controls, risk management, operational visibility, and enterprise integrations. | `PHP` · `Laravel` · `Symfony` · `React` · `TypeScript` · `PostgreSQL` · `Redis` · `Docker` |
-| **2021 → 2022** | 🏢 **THR Software** · Built business management and CRM systems, including a real estate management product and integrations that supported customer acquisition workflows. | `PHP` · `Laravel` · `React` · `MySQL` · `Docker` · `REST APIs` |
-| **2019 → 2021** | 💳 **Holding RPX** · Worked on fintech and white-label banking systems, including a ticket workflow that replaced email-based customer requests with a more structured process. | `PHP` · `Laravel` · `MySQL` · `REST APIs` · `Background jobs` |
+- 🔭 Currently working on enterprise cybersecurity software at **Redbelt Security**
+- 🧠 Interested in software architecture, backend engineering, and reliable systems
+- 🛡️ Experienced with GRC, incident response, vulnerability management, and security integrations
+- 🛠️ Mostly working with **PHP, Laravel, Symfony, React, and TypeScript**
+- 🌎 Based in Brazil, open to connecting with engineers and teams around the world
 
-## Featured engineering work
+---
 
-### Security and operational systems
+## 🚀 My journey so far
 
-| Project | What it shows |
-| --- | --- |
-| [ControlScope](https://github.com/gabBomfim/ControlScope) | A security posture workspace with an explicit control scoring model, coverage by function, and improvement recommendations. **Laravel · React · TypeScript** |
-| [IncidentFlow](https://github.com/gabBomfim/IncidentFlow) | An incident response workspace with state transitions, SLA signals, timeline events, and operational workflows. **Laravel · React · Redis** |
-| [AccessLens](https://github.com/gabBomfim/AccessLens) | An access review workspace with RBAC, policy-aware risk signals, permission matrices, and auditable decisions. **React · TypeScript · Express · PostgreSQL** |
+### 🛡️ Redbelt Security | Senior Software Engineer
+**2022 – Present**
 
-### Reliable integration tooling
+I work on RIS, an enterprise cybersecurity platform.
 
-| Project | What it shows |
-| --- | --- |
-| [HookRelay](https://github.com/gabBomfim/HookRelay) | A webhook delivery tool with HMAC signing, idempotency, bounded retries, transport inspection, and SSRF protection. **Symfony · PHP · PostgreSQL · Redis** |
-| [TracePulse](https://github.com/gabBomfim/TracePulse) | An API health monitor with real checks, latency history, failure persistence, Docker support, and safe URL validation. **Laravel · React · TypeScript · Docker** |
+Some of the work I've been involved in:
 
-### Independent product
+- 🔗 Designed and built bidirectional integrations with **ServiceNow, Jira, and TOPdesk**, connecting enterprise systems and reducing manual work.
+- 🛡️ Helped design and develop **Governance, Risk, and Compliance (GRC)** features, including security assessments and controls.
+- 📊 Built dashboards that give teams and customers a clearer view of incidents, performance, and security operations.
+- ⚙️ Worked on multi-tenant systems, APIs, background jobs, and complex business workflows.
 
-[OrçaFast](https://github.com/gabBomfim/orcafast-backend) was a B2B SaaS product I designed and built across backend and frontend. It included multi-tenancy, quote sharing, view tracking, financial goals, team management, Stripe webhooks, transactional email, Docker-based deployment, and AI-assisted pricing suggestions.
+My work has supported enterprise customers across banking, logistics, retail, and healthcare.
 
-The product is no longer in production. Its [backend](https://github.com/gabBomfim/orcafast-backend) and [frontend](https://github.com/gabBomfim/orcafast-frontend) repositories remain useful examples of the system's implementation.
+### 🏢 THR Software | Software Engineer
+**2021 – 2022**
 
-## Engineering focus
+This is where I grew a lot as a developer and moved into a mid-level role.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Build</h3>
-      <ul>
-        <li>Backend systems and domain rules</li>
-        <li>REST APIs and enterprise integrations</li>
-        <li>Queues, background processing, and webhooks</li>
-        <li>Multi-tenant SaaS and complex workflows</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Protect and operate</h3>
-      <ul>
-        <li>Cybersecurity platforms and GRC</li>
-        <li>NIST CSF, ISO 27001, and control maturity</li>
-        <li>Incident response and vulnerability workflows</li>
-        <li>Testing, CI/CD, observability, and safe failure paths</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+- 🏠 Built a real estate management platform from scratch for **L7 Inteligência Imobiliária**.
+- 💬 Worked on business applications such as **THR Atendimento** and digital signature solutions.
+- 🔗 Developed integrations with Facebook and other platforms to support business workflows.
+- 💻 Built CRM and financial management features using PHP, Laravel, Vue.js, and MySQL.
 
-## Core stack
+🔗 [L7 Inteligência Imobiliária](https://l7inteligenciaimobiliaria.com.br/)
 
-<p>
-  <strong>Backend</strong><br />
-  PHP · Laravel · Symfony · Node.js · REST APIs · Background jobs
-</p>
+### 💳 Holding RPX | Software Engineer
+**2019 – 2021**
 
-<p>
-  <strong>Frontend</strong><br />
-  React · TypeScript · JavaScript · Vite
-</p>
+I started my professional development career working on fintech and white-label banking systems.
 
-<p>
-  <strong>Data and delivery</strong><br />
-  PostgreSQL · MySQL · Redis · Docker · GitHub Actions
-</p>
+One of my projects was a ticket management workflow that helped replace customer requests handled through email with a more organized process.
 
-## Connect
+---
 
-- [LinkedIn](https://www.linkedin.com/in/gbr-bomfim/)
-- [Portfolio](https://www.gabrielbomfim.dev.br/)
-- [Email](mailto:gbr.bomfim@gmail.com)
+## 🧰 Technologies I work with
 
-<sub>Building software that stays clear when the system gets complicated.</sub>
+**💻 Backend**
 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
+**🎨 Frontend**
 
+![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+
+**🗄️ Data & Infrastructure**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**🛡️ Engineering & Security**
+
+`Software Architecture` · `REST APIs` · `Multi-tenancy` · `CI/CD` · `Automated Testing` · `GRC` · `NIST CSF` · `ISO 27001`
+
+---
+
+## 📂 Some projects I've built
+
+Here are a few projects where I explore architecture, real-world workflows, and different engineering challenges.
+
+| Project | What it's about | Stack |
+| :--- | :--- | :--- |
+| 🛡️ **[ControlScope](https://github.com/gabBomfim/ControlScope)** | Security posture assessments, control scoring, and improvement recommendations. | Laravel, React, TypeScript |
+| 🚨 **[IncidentFlow](https://github.com/gabBomfim/IncidentFlow)** | Incident response workflows, SLA tracking, and event timelines. | Laravel, React, Redis |
+| 🔗 **[HookRelay](https://github.com/gabBomfim/HookRelay)** | Reliable webhook delivery with retries, HMAC signatures, and idempotency. | Symfony, PostgreSQL, Redis |
+| 🔐 **[AccessLens](https://github.com/gabBomfim/AccessLens)** | Access reviews, permissions, RBAC, and audit trails. | React, TypeScript, PostgreSQL |
+| 📡 **[TracePulse](https://github.com/gabBomfim/TracePulse)** | API health checks, latency monitoring, and failure history. | Laravel, React, Docker |
+
+### 💡 OrçaFast | Independent SaaS
+
+I also designed and built **OrçaFast**, a quote management platform for service businesses.
+
+I worked on the product from the database and backend to the frontend, infrastructure, integrations, and deployment.
+
+It included multi-tenancy, quote sharing, view tracking, team management, Stripe webhooks, and AI-assisted pricing suggestions.
+
+The application is no longer live, but the code remains part of my engineering work.
+
+📦 [Backend](https://github.com/gabBomfim/orcafast-backend) · [Frontend](https://github.com/gabBomfim/orcafast-frontend)
+
+---
+
+## 🎯 How I approach engineering
+
+I like understanding the problem before choosing the technology.
+
+For me, good software isn't just about making something work. It's about making decisions that keep it reliable, understandable, and easier to maintain.
+
+I enjoy taking ownership of a problem, figuring out the difficult parts, and working with the team to deliver something useful.
+
+---
+
+<div align="center">
+
+### 🤝 Let's connect
+
+I'm always happy to connect with other engineers, exchange ideas, and hear about interesting opportunities.
+
+**[LinkedIn](https://www.linkedin.com/in/gbr-bomfim/)** · **[Portfolio](https://www.gabrielbomfim.dev.br/)** · **[Email](mailto:gbr.bomfim@gmail.com)**
+
+<sub>Thanks for stopping by! 👋</sub>
+
+</div>
