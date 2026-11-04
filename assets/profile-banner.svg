@@ -1,0 +1,18 @@
+<svg width="1200" height="330" viewBox="0 0 1200 330" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Systems, security, and software</title>
+  <desc id="desc">An abstract engineering diagram with connected nodes, a control grid, and a pulse line.</desc>
+  <rect width="1200" height="330" rx="18" fill="#0B1D2A"/>
+  <path d="M0 270H1200M0 210H1200M0 150H1200M0 90H1200" stroke="#24404B" stroke-width="1" opacity=".55"/>
+  <path d="M110 0V330M230 0V330M350 0V330M470 0V330M590 0V330M710 0V330M830 0V330M950 0V330M1070 0V330" stroke="#24404B" stroke-width="1" opacity=".42"/>
+  <path d="M58 224H170L202 178L236 246L270 132L308 224H382L418 224L452 192L489 224H554" stroke="#63D6BD" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M554 224H634L670 224L708 164L744 224H819L856 224L896 104L932 224H1004L1040 191L1071 224H1142" stroke="#F1B765" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" opacity=".95"/>
+  <circle cx="202" cy="178" r="8" fill="#0B1D2A" stroke="#63D6BD" stroke-width="4"/>
+  <circle cx="270" cy="132" r="8" fill="#0B1D2A" stroke="#63D6BD" stroke-width="4"/>
+  <circle cx="708" cy="164" r="8" fill="#0B1D2A" stroke="#F1B765" stroke-width="4"/>
+  <circle cx="896" cy="104" r="8" fill="#0B1D2A" stroke="#F1B765" stroke-width="4"/>
+  <path d="M76 64H290M76 79H212" stroke="#A6C6CC" stroke-width="2" opacity=".45"/>
+  <path d="M948 55H1124M948 70H1064" stroke="#A6C6CC" stroke-width="2" opacity=".45"/>
+  <text x="78" y="118" fill="#EAF4F4" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="3">SYSTEMS / SECURITY / SOFTWARE</text>
+  <text x="78" y="301" fill="#7D9BA3" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="2">GABRIEL BOMFIM · SENIOR SOFTWARE ENGINEER</text>
+  <g opacity=".8"><rect x="1008" y="128" width="84" height="48" rx="6" stroke="#63D6BD"/><path d="M1024 152H1076M1024 162H1058" stroke="#63D6BD" stroke-width="2"/><rect x="1098" y="128" width="32" height="48" rx="6" stroke="#F1B765"/></g>
+</svg>
